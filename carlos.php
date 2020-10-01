@@ -1,4 +1,6 @@
 <?php
+//pregunta numero 10.
+
 //NOMBRE DE LOS JUGADORES.
 $jugador1 = 'Radamel Falcao';
 $jugador2 = 'James Rodriguez';
