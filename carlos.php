@@ -1,15 +1,3 @@
-//10. El seleccionador nacional de la selección de fútbol de
-Colombia Carlos Queiroz, necesita de sus servicios como
-desarrollador de software, para almacenar y organizar la
-información de los mejores jugadores colombianos alrededor del
-mundo, para ello él le suministra la siguiente información:
-Cree un arreglo multidimensional donde guarde la información
-de cada jugador calculando la edad y el biotipo de estos a
-partir de los datos suministrados por Queiroz y muestre los
-resultados en pantalla uno a uno.
-
-
-
 <?php
 //NOMBRE DE LOS JUGADORES.
 $jugador1 = 'Radamel Falcao';
