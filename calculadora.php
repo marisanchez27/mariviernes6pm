@@ -10,7 +10,7 @@
     <body>
         <h1>Calculador de edad</h1>
         
-        <form name="inscription" method="post" action="calcularedad.php">
+        <form name="inscription" method="post" action="calculadora.php">
             <h3>Nombre : </h3>
             <input type="text" name="nombre" placeholder="Ingrese el nombre"/> <br/>
             <h3>Año de nacimiento: </h3>
@@ -31,7 +31,7 @@
                 return $ano_diferencia;
                 
               }
-                echo  "La edad de ". $nombre. " es de:<b> ".calculaedad ('1995-01-01')." años. </b>";
+                echo  "La edad de ". $nombre. " es de:<b> ".calculaedad ($fechanacimiento)." años. </b>";
             
                 
             
