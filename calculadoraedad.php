@@ -10,7 +10,7 @@
     <body>
         <h1>Calculador de edad</h1>
         
-        <form name="inscription" method="post" action="calculadora.php">
+        <form name="inscription" method="post" action="calculadoraedad.php">
             <h3>Nombre : </h3>
             <input type="text" name="nombre" placeholder="Ingrese el nombre"/> <br/>
             <h3>Año de nacimiento: </h3>
