@@ -6,7 +6,13 @@
     <title>Calculadora edad</title>
     <link rel="stylesheet" href="index.css">
     </head>
-    
+    <style>
+    html
+    {
+    background-color: #ED6D6D;
+    padding-left: 750px;
+    }
+    </style>
     <body>
         <h1>Calculador de edad</h1>
         

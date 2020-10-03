@@ -9,10 +9,10 @@
     <style>
     html
     {
-    background-color: gray;
-    padding-left: 550px;
+    background-color: #CEECF5;
+    padding-left: 750px;
     }
-    </style>
+    <
     
     </style>
     <body>
