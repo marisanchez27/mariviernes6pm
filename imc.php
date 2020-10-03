@@ -9,7 +9,7 @@
     <style>
     html
     {
-    background-color: beige;
+    background-color: gray;
     padding-left: 550px;
     }
     </style>
@@ -26,7 +26,7 @@
             <input type="text" name="estatura" placeholder="Ingrese su estatura"/><br/>
             <h3>Peso (en kg) : </h3>
             <input type="text" name="peso" placeholder="Ingrese su peso"/><br/><br>
-            <input type="submit" name="valider" value="Calcular"/><br/><br>
+            <input type="submit"  name="valider" value="Calcular"/><br/><br>
         </form>
         <?php
         if(isset($_POST['valider'])){
