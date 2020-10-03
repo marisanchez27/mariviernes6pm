@@ -9,7 +9,7 @@
     <style>
     html
     {
-    background-color: #ED6D6D;
+    background-color: #E2A9F3;
     padding-left: 750px;
     }
     </style>
